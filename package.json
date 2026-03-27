@@ -1,6 +1,6 @@
 {
   "name": "pi-perplexity-search",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "A pi extension to search using Perplexity AI",
   "license": "MIT",
   "author": "Richard Anaya",
