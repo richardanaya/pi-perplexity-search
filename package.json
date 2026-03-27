@@ -1,0 +1,20 @@
+{
+  "name": "pi-perplexity-search",
+  "version": "0.0.1",
+  "description": "A pi extension to search using Perplexity AI",
+  "license": "MIT",
+  "author": "Richard Anaya",
+  "type": "commonjs",
+  "main": "index.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "pi": {
+    "extensions": [
+      "./index.ts"
+    ]
+  },
+  "dependencies": {
+    "@toon-format/toon": "^2.1.0"
+  }
+}
