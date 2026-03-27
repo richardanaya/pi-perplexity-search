@@ -67,8 +67,6 @@ export default function (pi: ExtensionAPI) {
           snippet: r.snippet,
           date: r.date,
         })),
-        model: data.model,
-        usage: data.usage,
       };
 
       return {
